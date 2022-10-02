@@ -1,8 +1,11 @@
 <p align="center">
     <a href="https://hacktoberfest.digitalocean.com/">
-       <img src="https://raw.githubusercontent.com/DhananjayPorwal/hacktoberfest2022/main/example/Desktop%20BG%204K%20Dark%20Mode.png">
+       <img src="https://raw.githubusercontent.com/DhananjayPorwal/hacktoberfest2021/main/example/Desktop%20BG%204K%20Dark%20Mode.png">
     </a>
 </p>
+---
+
+# ⚠ Repository Excluded, New Repository can be found [here](https://github.com/DhananjayPorwal/hacktoberfest2022)
 
 ---
 <div align="center">
